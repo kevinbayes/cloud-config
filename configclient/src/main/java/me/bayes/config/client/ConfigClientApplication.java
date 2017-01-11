@@ -1,4 +1,4 @@
-package io.plexure.config.client;
+package me.bayes.config.client;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
